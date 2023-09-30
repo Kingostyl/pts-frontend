@@ -1,3 +1,3 @@
 # pts-frontend
 
-itu copas aja 
+calculator sederhana
